@@ -1,0 +1,21 @@
+We are seeking a Front-End Developer to join our dynamic development team.
+
+Responsibilities:
+- Develop responsive web applications using HTML, CSS, and JavaScript
+- Integrate APIs and ensure seamless user experiences
+- Collaborate with UX designers to bring wireframes to life
+- Optimize application performance and accessibility
+- Write clean, reusable, and testable code
+
+Requirements:
+- Proficient in HTML5, CSS3, JavaScript (ES6+)
+- Experience with front-end frameworks like React or Vue
+- Familiarity with REST APIs and JSON data handling
+- Strong debugging and problem-solving skills
+- Knowledge of Git and version control workflows
+- Understanding of cross-browser compatibility and mobile-first design
+
+Nice to Have:
+- Experience with Figma, Framer, or other design tools
+- Knowledge of Python, Flask, or backend fundamentals
+- Exposure to CI/CD pipelines and testing frameworks
